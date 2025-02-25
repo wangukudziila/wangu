@@ -1,6 +1,6 @@
 selector {
 
-property: value;
+property: background;
 
 }body {
 
@@ -19,7 +19,7 @@ line-height: 1.6;
 }
 header {
 
-background-color: #FF5733;
+background-color: #Arial, sans-serif;
 
 color: Reddish Orange;
 
